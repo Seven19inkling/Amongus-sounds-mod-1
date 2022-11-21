@@ -1,1 +1,5 @@
+add disk/bb/cmn200.ar.00
+add disk/bb/cmn200.arl
+delete disk/bb2/Packed/euc200/euc200.ar.00
+delete disk/bb2/Packed/euc200/euc200.arl
 add mod.ini
